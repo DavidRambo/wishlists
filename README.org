@@ -3,3 +3,5 @@
 This is a web app intended for small groups of friends and family to use to exchange gift ideas.
 A participant may edit their wish list while others mark what they intend to get that person.
 Others may see what is still available, whereas the recipient cannot.
+
+See the `backend/` and `frontend/` directories for build instructions and more details on the API.
