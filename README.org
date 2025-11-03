@@ -5,3 +5,5 @@ A participant may edit their wish list while others mark what they intend to get
 Others may see what is still available, whereas the recipient cannot.
 
 See the `backend/` and `frontend/` directories for build instructions and more details on the API.
+
+Here is a video showcasing the app in its earlier iteration: https://youtu.be/zxTnYocdt1w
